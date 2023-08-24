@@ -6,7 +6,7 @@
 
 (https://omnifoodprjt.netlify.app/)
 
-This project was a final project of a course I took, where I rpacticed my HTML and CSS skills obtained
+This project was the final project of a course I took, where I practiced my HTML and CSS skills obtained
 
 # Tech Stack Used
 
@@ -23,20 +23,11 @@ This project was a final project of a course I took, where I rpacticed my HTML a
 - Primary
   #e67e22
 
-- Tints
-  #fdf2e9
-  #fae5d3
-  #eb984e
+- Tints: #fdf2e9 | #fae5d3| #eb984e
 
-- Shades
-  #cf711f
-  #45260a
+- Shades: #cf711f | #45260a
 
-- Greys
-  #888
-  #777
-  #555
-  #333
+- Greys: #888 | #777 | #555 | #333
 
 ## Layout Mockup
 
